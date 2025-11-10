@@ -51,21 +51,6 @@ Core pillars of the TimberCloud platform:
 
 Each repository includes its own README with setup and deployment details.
 
----
-
-## 📁 Repository Overview
-
-Common repositories in this organization:
-
-- `timbercloud-app` — Main web application (Next.js + TimberCloud UI).
-- `timbercloud-api` — Strapi backend with custom logic, plugins, and integrations.
-- `timbercloud-embed` — Embeddable storefront components and integration SDK.
-- `timbercloud-design` — Shared UI components, Tailwind config, and brand assets.
-- `timbercloud-integrations-*` — Third-party integrations (shipping, LTL, payments, etc.).
-- `timbercloud-docs` — Public documentation, guides, and developer docs.
-- `timbercloud-examples` — Example configs, templates, and starter projects.
-
-_Not all repositories are public. Some modules and integrations are private or customer-specific._
 
 ---
 
@@ -79,13 +64,33 @@ We currently welcome:
 - Documentation improvements
 - Small, self-contained PRs to public packages or examples
 
-**How to contribute:**
 
-1. Open an issue in the relevant public repo.
-2. Clearly describe the bug, suggestion, or improvement.
-3. We’ll review and respond as we expand our public contribution guidelines.
+---
 
-See `CONTRIBUTING.md` in each repo (where available) for details.
+## 🚀 We’re Hiring
+
+We’re building a lean, highly-focused team to modernize software for woodworkers and manufacturers.
+
+We’re especially interested in people who:
+
+- Care about product quality and real-world users.
+- Enjoy owning problems end-to-end.
+- Are comfortable working in a fast-moving startup environment.
+
+**Example roles we may be hiring for:**
+
+- Senior Full-Stack Engineer (Next.js, Strapi, TypeScript)
+- Backend Engineer (Node.js, APIs, integrations, performance)
+- Frontend Engineer (React, Tailwind, design systems)
+- Integration Engineer (shipping, freight, payments, ERP)
+- Customer Success / Implementation Specialist (manufacturing or woodworking experience a plus)
+
+If you’d like to work with us:
+
+- Email your GitHub, resume, and a short note about relevant work to **hiring@timbercloud.com**
+- Or reach out via **hello@timbercloud.com** with the subject line: `TimberCloud Hiring`
+
+We review every message.
 
 ---
 
@@ -105,7 +110,8 @@ contact us for API access details, sandbox environments, and implementation supp
 
 - **Website:** https://timbercloud.com
 - **Support:** support@timbercloud.com
-- **Sales & Demos:** hello@timbercloud.com
+- **Sales & Demos:** sales@timbercloud.com
+- **Careers:** hiring@timbercloud.com
 
 ---
 
