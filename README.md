@@ -88,7 +88,6 @@ We’re especially interested in people who:
 If you’d like to work with us:
 
 - Email your GitHub, resume, and a short note about relevant work to **hiring@timbercloud.com**
-- Or reach out via **hello@timbercloud.com** with the subject line: `TimberCloud Hiring`
 
 We review every message.
 
